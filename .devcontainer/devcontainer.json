@@ -11,11 +11,7 @@
   },
   "customizations": {
     "codespaces": {
-      "repositories": {
-        "mohdalihpk/react-tutorials": {
-          "permissions": "write-all"
-        }
-      },
+      
       "openFiles": [
         "src/App.js"
       ]
